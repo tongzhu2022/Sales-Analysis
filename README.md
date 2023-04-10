@@ -1,3 +1,6 @@
 # Sales Data Analysis
-- Completed data cleaning by fixing data quality issues such as missing values, converting data type, and creating labels for data mapping, and filtered/removed unnecessary rows and columns based on required conditions
-- Utilized pandas and matplotlib modules to perform comprehensive data analysis and visualization of sales data, with a focus on identifying the optimal month for sales and providing insights into the underlying factors driving performance. In addition, addressed other key business questions such as identifying the city with the highest sales, determining the best time to display advertisement to maximize sales, determining which products are most often sold together, and identifying the top-selling products
+- Performed data cleaning tasks including fixing missing values, converting data types, creating labels for data
+mapping
+- Analyzed and visualized sales data using pandas and matplotlib, identifying the optimal sales month and pro-
+viding insights into key performance factors. Also answered business questions such as identifying top-selling
+products, best advertising display time, city with the highest sales, and frequently paired products
